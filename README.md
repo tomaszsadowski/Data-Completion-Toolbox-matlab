@@ -37,9 +37,9 @@ Avaiable methods:
 6 - PTT, Permutation Tensor Train, 2019,   
 7 - KA-TT, Ket Augmented Tensor Train, 2019,    
 8 - fALS, filtered ALS for Image Completion, 2019,   
-9 - TT-IC - Tensor Intrepolation for Image Completion, 2020,   
-10 - GDC(H), Geometric Data Completion (horizontal), 2021,   
-11 - GDC(V), Geometric Data Completion (vertical), 2021,   
+9 - TT-IC, Tensor Intrepolation for Image Completion, 2020,   
+10 - GDC(H), Geometric Data Completion (Horizontal), 2021,   
+11 - GDC(V), Geometric Data Completion (Vertical), 2021,   
 12 - GDC(HV), Geometric Data Completion (Horizontal-Vertical), 2021.
 
 Feedback:
@@ -47,4 +47,4 @@ Feedback:
 Please send bug reports, comments, or questions to Tomasz Sadowski (mailto:tomasz.sadowski@pwr.edu.pl) or Rafal Zdunek (mailto:rafal.zdunek@pwr.edu.pl).
 
 
-© Tomasz Sadowski 2018-2021
+© Tomasz Sadowski 2016-2021
