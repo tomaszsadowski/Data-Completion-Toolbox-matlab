@@ -121,11 +121,11 @@ if saving==1
 
     if strcmp(name,'none')
         
-        outputFile = ['results/',data,'_MCruns_',num2str(Structure_data.MC),procent,'.mat'];
+        outputFile = [data,'_MCruns_',num2str(Structure_data.MC),procent,'.mat'];
         save(outputFile)
         
     else
-        outputFile = ['results/',name,'.mat'];
+        outputFile = [name,'.mat'];
         save(outputFile)
         
     end
