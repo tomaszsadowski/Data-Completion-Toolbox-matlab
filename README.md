@@ -30,9 +30,9 @@ Avaiable datasets:
 Avaiable methods:
 ------------  
 1 - SmNMF-MC, Smooth Nonnegative Matrix Factorization for Matrix Completion, 2017,
-2 - HALS, Hierarchical Alterning Least Squeares for Image Completion, 2017,  
-3 - BSA-IC, B-Splines-based Algorithm for Image Completion, 2018,   
-4 - ICSA, Image Completion under Separability Assumption, 2018,  
+2 - HALS, Hierarchical Alterning Least Squeares for Image Completion, 2017,
+3 - BSA-IC, B-Splines-based Algorithm for Image Completion, 2018,
+4 - ICSA, Image Completion under Separability Assumption, 2018,
 5 - ALS Tucker for Image Completion, 2019,
 6 - PTT, Permutation Tensor Train, 2019,
 7 - KA-TT, Ket Augmented Tensor Train, 2019,
@@ -47,4 +47,4 @@ Feedback:
 Please send bug reports, comments, or questions to Tomasz Sadowski (mailto:tomasz.sadowski@pwr.edu.pl) or Rafal Zdunek (mailto:rafal.zdunek@pwr.edu.pl).
 
 
-© Tomasz Sadowski 2018-2021
+Â© Tomasz Sadowski 2018-2021
