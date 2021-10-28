@@ -29,17 +29,17 @@ Avaiable datasets:
 
 Avaiable methods:
 ------------  
-1 - SmNMF-MC, Smooth Nonnegative Matrix Factorization for Matrix Completion, 2017,
-2 - HALS, Hierarchical Alterning Least Squeares for Image Completion, 2017,
-3 - BSA-IC, B-Splines-based Algorithm for Image Completion, 2018,
-4 - ICSA, Image Completion under Separability Assumption, 2018,
-5 - ALS Tucker for Image Completion, 2019,
-6 - PTT, Permutation Tensor Train, 2019,
-7 - KA-TT, Ket Augmented Tensor Train, 2019,
-8 - fALS, filtered ALS for Image Completion, 2019,
-9 - TT-IC - Tensor Intrepolation for Image Completion, 2020,
-10 - GDC(H), Geometric Data Completion (horizontal), 2021,
-11 - GDC(V), Geometric Data Completion (vertical), 2021,
+1 - SmNMF-MC, Smooth Nonnegative Matrix Factorization for Matrix Completion, 2017,   
+2 - HALS, Hierarchical Alterning Least Squeares for Image Completion, 2017,   
+3 - BSA-IC, B-Splines-based Algorithm for Image Completion, 2018,   
+4 - ICSA, Image Completion under Separability Assumption, 2018,   
+5 - ALS Tucker for Image Completion, 2019,   
+6 - PTT, Permutation Tensor Train, 2019,   
+7 - KA-TT, Ket Augmented Tensor Train, 2019,    
+8 - fALS, filtered ALS for Image Completion, 2019,   
+9 - TT-IC - Tensor Intrepolation for Image Completion, 2020,   
+10 - GDC(H), Geometric Data Completion (horizontal), 2021,   
+11 - GDC(V), Geometric Data Completion (vertical), 2021,   
 12 - GDC(HV), Geometric Data Completion (Horizontal-Vertical), 2021.
 
 Feedback:
