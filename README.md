@@ -27,7 +27,7 @@ Avaiable datasets:
 - 'barbara' - 512 x 512 x 3 image (color),
 - 'monarch' - 512 x 512 x 3 image (color).
 
-Avaiable methods:
+Available methods:
 ------------  
 1 - SmNMF-MC, Smooth Nonnegative Matrix Factorization for Matrix Completion, 2017,   
 2 - HALS, Hierarchical Alterning Least Squeares for Image Completion, 2017,   
