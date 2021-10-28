@@ -27,6 +27,6 @@ addpath(genpath(fullfile(DataFolder,'datasets')));
 
 eval('SIR_table')
 eval('time_table')
-% outputFile = ['results/','pavia_MCruns_',num2str(Structure_data.MC),'_10.mat'];
+% outputFile = ['results.mat'];
 % save(outputFile)
 disp('Fin without errors')
